@@ -1,9 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:wght@300&family=Outfit&family=Plus+Jakarta+Sans:wght@500&display=swap');
 
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
 .qr__wrapper {
     margin: auto;
     display: flex;
-    margin-top: 15rem;
 }
 
 .qr__container {

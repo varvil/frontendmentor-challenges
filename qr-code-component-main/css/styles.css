@@ -30,14 +30,21 @@
     border-radius: 10px;
 }
 
+.text__area {
+    margin: auto;
+    width: 250px;
+}
+
 .title__text {
     font-family:"Outfit";
     font-weight: 700;
     font-size: 23px;
+    color: hsl(218, 44%, 22%);
 }
 
 .description__text {
     font-family: "Outfit";
     font-weight: 400;
+    color: hsl(220, 15%, 55%);
 }
 

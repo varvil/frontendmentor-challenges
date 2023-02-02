@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:wght@300&family=Outfit&family=Plus+Jakarta+Sans:wght@500&display=swap');
+
+.qr__wrapper {
+    margin: auto;
+    display: flex;
+    margin-top: 10rem;
+}
+
+.qr__container {
+    margin: auto;
+    display: flex;
+    width: 1440px;
+    height: 800px;
+    background-color: hsl(212, 45%, 89%);
+}
+
+.qr__content {
+    margin: auto;
+    text-align: center;
+    width: 320px;
+    height: 500px;
+    border-radius: 20px;
+    background-color: hsl(0, 0%, 100%);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
+
+.qr__image {
+    margin-top: 1.2rem;
+    width: 280px;
+    border-radius: 10px;
+}
+
+.title__text {
+    font-family:"Outfit";
+    font-weight: 700;
+    font-size: 23px;
+}
+
+.description__text {
+    font-family: "Outfit";
+    font-weight: 400;
+}
+
